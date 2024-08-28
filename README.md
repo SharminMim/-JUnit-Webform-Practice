@@ -4,13 +4,14 @@ In this project I have automated a website webform and uploaded an image.After s
 ### Prerequisites
 - IntelliJ
 - Selenium
-- 
+  
 ### Framework used:
 - JUnit
-- 
+  
 ### Scenarios Covered
 Automate the following webform https://www.digitalunite.com/practice-webform-learners
+
 During the web form submission process, upload any file & after successful submission, assert the expected message as: Thank you for your submission!
 
 ## Report:
-![reportJUnit](https://github.com/user-attachments/assets/6baaa635-9cda-4266-9093-c9acfe8d2a33)
+![JUnitReport](https://github.com/user-attachments/assets/4a39c162-bd17-4aa1-9b3b-4904d319de95)
